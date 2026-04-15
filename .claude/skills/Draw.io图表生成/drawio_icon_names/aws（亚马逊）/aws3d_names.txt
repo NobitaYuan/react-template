@@ -1,0 +1,16 @@
+mxGraph.aws3d.arrowhead
+mxGraph.aws3d.arrowhead2
+mxGraph.aws3d.content
+mxGraph.aws3d.client
+mxGraph.aws3d.edge
+mxGraph.aws3d.edge2
+mxGraph.aws3d.email
+mxGraph.aws3d.end_user
+mxGraph.aws3d.file
+mxGraph.aws3d.image
+mxGraph.aws3d.mobile_worker
+mxGraph.aws3d.reference
+mxGraph.aws3d.reference2
+mxGraph.aws3d.snapshot1
+mxGraph.aws3d.spot
+mxGraph.aws3d.spot2

@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs wc -l)",
+      "Bash(npx tsc:*)",
+      "Bash(agent-browser click:*)",
+      "Bash(agent-browser select:*)",
+      "Bash(agent-browser snapshot:*)",
+      "Bash(agent-browser --headed open http://localhost:5173/)",
+      "Bash(agent-browser wait:*)",
+      "Bash(agent-browser fill:*)",
+      "Bash(agent-browser screenshot:*)",
+      "Bash(agent-browser close:*)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:5173)",
+      "Bash(where agent-browser:*)"
+    ]
+  }
+}

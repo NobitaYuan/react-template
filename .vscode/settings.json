@@ -1,0 +1,6 @@
+{
+  "liveServer.settings.port": 5501,
+  "recommendations": ["oxc.oxc-vscode"],
+  "trae.tab.enableRename": false,
+  "trae.tab.enableAutoImport": false
+}

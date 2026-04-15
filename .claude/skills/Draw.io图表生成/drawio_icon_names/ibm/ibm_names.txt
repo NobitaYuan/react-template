@@ -1,0 +1,8 @@
+mxgraph.ibm.classictag
+mxgraph.ibm.cloudtag
+mxgraph.ibm.enterprisetag
+mxgraph.ibm.publictag
+mxgraph.ibm.regiontag
+mxgraph.ibm.subnettag
+mxgraph.ibm.vpctag
+mxgraph.ibm.zonetag
